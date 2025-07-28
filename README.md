@@ -54,19 +54,19 @@ They propose a minimal LBM implementation to simulate fluid flow in a 2D channel
 ## 📊 Output Visualizations  
 
 ### ✅ 1. Final Velocity Profile Comparison  
-![Mid Channel Plot](output\Velocity_profile_comparison.png)
+![Mid Channel Plot](assets\Velocity_profile_comparison.png)
 
 ### 🎥 2. Velocity Animation  
-🎞️ Saved as: `output\ux_animation.mp4`
+🎞️ Saved as: `assets\ux_animation.mp4`
 
 ### 🌊 3. Velocity Contour Plot  
-![Velocity Contour](output\velocity_contour.png)
+![Velocity Contour](assets\velocity_contour.png)
 
 ### 📉 4. Convergence Plot  
-![Convergence Plot](./output/convergence_plot.png)
+![Convergence Plot](assets\convergence_plot.png)
 
 ### 📉 5. Mid Channel Velocity Contour  
-![Mid Channel Velocity contour](output\mid_channel.png)
+![Mid Channel Velocity contour](assets\mid_channel.png)
 
 ---
 
