@@ -54,19 +54,19 @@ They propose a minimal LBM implementation to simulate fluid flow in a 2D channel
 ## 📊 Output Visualizations  
 
 ### ✅ 1. Final Velocity Profile Comparison  
-![Mid Channel Plot](assets\Velocity_profile_comparison.png)
+![Mid Channel Plot](https://github.com/sreyagk-cloud/LBM-2D-ChannelFlow/blob/main/assets/Velocity_profile_comparison.png)
 
 ### 🎥 2. Velocity Animation  
-🎞️ Saved as: `assets\ux_animation.mp4`
+🎞️ Saved as: `https://github.com/sreyagk-cloud/LBM-2D-ChannelFlow/blob/main/assets/ux_animation.mp4`
 
 ### 🌊 3. Velocity Contour Plot  
-![Velocity Contour](assets\velocity_contour.png)
+![Velocity Contour](https://github.com/sreyagk-cloud/LBM-2D-ChannelFlow/blob/main/assets/velocity_contour.png)
 
 ### 📉 4. Convergence Plot  
-![Convergence Plot](assets\convergence_plot.png)
+![Convergence Plot](https://github.com/sreyagk-cloud/LBM-2D-ChannelFlow/blob/main/assets/convergence_plot.png)
 
 ### 📉 5. Mid Channel Velocity Contour  
-![Mid Channel Velocity contour](assets\mid_channel.png)
+![Mid Channel Velocity contour](https://github.com/sreyagk-cloud/LBM-2D-ChannelFlow/blob/main/assets/mid_channel.png)
 
 ---
 
