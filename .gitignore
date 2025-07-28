@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.npz
+.vscode/
+output/
+output/*.npz
+*.npz
+__pycache__/
